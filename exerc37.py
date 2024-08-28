@@ -1,0 +1,1 @@
+equ = int(input("digite uma raiz do segundo grau: "))
